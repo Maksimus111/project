@@ -1,4 +1,4 @@
 <?php
-echo rand(1,5);
+echo rand(1,55);
 
 ?>
